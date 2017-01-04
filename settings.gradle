@@ -1,0 +1,5 @@
+rootProject.name = 'spring-boot-demo'
+include 'spring-boot-demo-api'
+include 'spring-boot-demo-provider'
+include 'spring-boot-demo-consumer'
+
